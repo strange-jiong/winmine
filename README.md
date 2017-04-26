@@ -1,6 +1,6 @@
-##自动化扫雷工具winmine
+## 自动化扫雷工具winmine
 
-###安装环境
+### 安装环境
 - python2.7
 - 扫雷程序（winmine.exe）
 
@@ -14,7 +14,7 @@ win32api
 time
 ```
 
-###使用方法
+### 使用方法
 ```
 Usage:
     python winmine.py [-sadc]
